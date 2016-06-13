@@ -4,4 +4,4 @@ This project is a simple PoC I did for fun because I was tired of refreshing the
     * python-telegram-bot
 
 You also need to create a config.py file containing :
-API_KEY='token of your bot'
+TOKEN ='token of your bot'
